@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_todos_new-todo (input)</name>
+   <tag></tag>
+   <elementGuidId>da4f312f-e04d-43a3-ae72-cc9ae8ff257a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.new-todo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>49bce7c7-a6b6-4a13-b64a-9e895cc4b21b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>new-todo</value>
+      <webElementGuid>49b34c41-c78d-49b4-b9b0-173261ccc1c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>value: current, valueUpdate: 'afterkeydown', enterKey: add</value>
+      <webElementGuid>204cea09-e0cb-4146-aa4f-e976680b2f2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>What needs to be done?</value>
+      <webElementGuid>742e5fde-ba1a-4eca-98bb-c47f023fc771</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;learn-bar&quot;]/section[@class=&quot;todoapp&quot;]/header[@class=&quot;header&quot;]/input[@class=&quot;new-todo&quot;]</value>
+      <webElementGuid>e1c40548-3ab8-4956-bdc6-2cdb78535d87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>4d87cc4a-b6a7-4b97-b895-a47853ace5a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'What needs to be done?']</value>
+      <webElementGuid>663052ab-fffa-4c34-afa5-c3e350886cd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
